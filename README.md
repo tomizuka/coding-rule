@@ -590,7 +590,7 @@ html {
 .gallery {}
 ```
 
-## class名の命名規則
+## class名の命名規則(要検討事項)
 
 [BEM記法](https://gist.github.com/juno/6182957)に基づく。
 
